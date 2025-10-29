@@ -1,2 +1,8 @@
 # Pytorch
-this repo is about pytorch notes
+This repo is about pytorch notes
+```Bash
+Tensor
+Range
+Random Tensor
+Tensor Datatypes
+```
