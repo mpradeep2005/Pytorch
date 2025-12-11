@@ -5,4 +5,5 @@ Tensor
 Range
 Random Tensor
 Tensor Datatypes
+Manipulation of tensors
 ```
